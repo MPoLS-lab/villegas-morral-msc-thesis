@@ -21,7 +21,7 @@
 
 <sup>[_Return to the Table of Contents_](#table-of-contents)</sup>
 
-This repository contains the code, figures and report of my master thesis, titled "Agent-based modelling of embryonic organoid development", developed in 2024 as part of the Master's degree in Advanced Mathematics and Mathematical Engineering at Universitat Politècnica de Catalunya. It was carried out at the  Multiscale Physics of Living Systems Group, part of the Computational Biology and Complex Systems Research Group ([BIOCOM-SC](https://biocomsc.upc.edu/en)), and supervised by [David Oriola Santandreu](https://davidoriola.mystrikingly.com/). 
+This repository contains the code, figures and report of the master thesis, titled "Agent-based modelling of embryonic organoid development", developed by [Víctor Villegas-Morral](https://github.com/villegas-morral) in 2024 as part of the Master's degree in Advanced Mathematics and Mathematical Engineering at Universitat Politècnica de Catalunya. It was carried out at the  Multiscale Physics of Living Systems Group, part of the Computational Biology and Complex Systems Research Group ([BIOCOM-SC](https://biocomsc.upc.edu/en)), and supervised by [David Oriola Santandreu](https://davidoriola.mystrikingly.com/). 
 
 
 
