@@ -61,8 +61,8 @@ The programs referenced across the report. The following brief descriptions are 
 - **Functions**: Loads most of the functions used by the programs.  
 - **3.01**: Visualization of the issue regarding the increase of neighbours. Averaged over several realizations.  
 - **3.02**: Analysis of the issue regarding the increase of neighbours.  
-- **3.03**: Parameter sweep for `α_adh` using the variable friction model.  
-- **3.04**: Parameter sweep for `α_adh` using the constant friction model.  
+- **3.03**: Parameter sweep for `adh` using the variable friction model.  
+- **3.04**: Parameter sweep for `adh` using the constant friction model.  
 - **3.05**: Proposed model with constant friction.  
 - **3.06**: Instability of the model using a simple force expression.  
 - **3.07**: Computation of the sum of velocities of the neighbours using the model introduced in Program `3.03`.
